@@ -1,4 +1,5 @@
 *.md
+Vagrantfile
 img*.png
 !README.md
 
